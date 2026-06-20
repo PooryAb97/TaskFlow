@@ -1,4 +1,4 @@
-# TaskFlow
+# TaskFlow — SaaS Landing Page
 
 Modern SaaS landing page for task and project management platforms built with Vite, Tailwind CSS, and JavaScript.
 ## 🚀 Live Demo
@@ -39,22 +39,29 @@ The design focuses on performance, accessibility, usability, and conversion-orie
 
 ---
 
-🎯 Project Goals
+## 🎯 Project Goals
+
 This project was built to demonstrate:
 
-Responsive web design
-Landing page architecture
-SaaS product presentation
-UI/UX implementation
-Frontend development workflow
-Tailwind CSS proficiency
+- Responsive web design
+- Landing page architecture
+- SaaS product presentation
+- UI/UX implementation
+- Frontend development workflow
+- Tailwind CSS proficiency
 
 ---
 
-🔗 Links
-Portfolio: https://pbasiri.ir
-GitHub: https://github.com/PooryAb97
-LinkedIn: https://linkedin.com/in/poorya-basiri
+## 🔗 Links
+
+Portfolio:
+https://pbasiri.ir
+
+GitHub:
+https://github.com/PooryAb97
+
+LinkedIn:
+https://linkedin.com/in/poorya-basiri
 
 ---
 
@@ -86,3 +93,4 @@ TaskFlow/
 ├── package.json
 ├── vite.config.js
 └── README.md
+```
